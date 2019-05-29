@@ -1,7 +1,7 @@
 package wordcountApp;
 
 import java.util.*;
-imoport java.util.Map.Entry;
+import java.util.Map.Entry;
 
 public class WordCount {
 	private String text;
